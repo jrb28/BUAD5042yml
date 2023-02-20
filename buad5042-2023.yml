@@ -1,5 +1,8 @@
-name: buad5042-2023
+name: base
 channels:
+  - conda-forge
+  - numba
+  - http://conda.anaconda.org/gurobi
   - defaults
 dependencies:
   - alabaster=0.7.12=py37_0
@@ -169,6 +172,7 @@ dependencies:
   - libxml2=2.9.14=h0ad7f3c_0
   - libxslt=1.1.35=h2bbff1b_0
   - libzopfli=1.0.3=ha925a31_0
+  - line_profiler=3.3.1=py37h59b6b97_0
   - llvmlite=0.38.0=py37h23ce68f_0
   - locket=1.0.0=py37haa95532_0
   - lxml=4.9.1=py37h1985fb9_0
@@ -399,4 +403,4 @@ dependencies:
   - zope.interface=5.4.0=py37h2bbff1b_0
   - zstandard=0.18.0=py37h2bbff1b_0
   - zstd=1.5.2=h19a0ad4_0
-prefix: C:\Users\jrbrad\Anaconda3\envs\buad5042-2023
+prefix: C:\ProgramData\Anaconda3\envs\buad5042-2023\envs\buad5042-2023
