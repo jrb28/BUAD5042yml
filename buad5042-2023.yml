@@ -1,4 +1,4 @@
-name: base
+name: buad5042
 channels:
   - conda-forge
   - numba
